@@ -1,0 +1,37 @@
+package ejerciciouno;
+
+import java.util.Scanner;
+
+public class puntoC {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Ingrese numero de inicio:");
+		int a = scanner.nextInt();
+		System.out.println("Ingrese numero de fin:");
+		int b = scanner.nextInt();
+		int aux = a;
+		String opcion;
+		System.out.println("ingrese'P' para mostrar numeros pares o 'I' para impares");
+		opcion= scanner.nextLine();
+
+		}
+		if(opcion=="P");{
+			while(aux<=b){
+				if(aux%2==0) {
+				System.out.println(aux);
+				}
+				++aux;}
+		}
+		
+		if(opcion=="I");{
+		while(aux<=b){
+			if(aux%2!=0) {
+			System.out.println(aux);
+			}
+			++aux;}
+		}
+	}
+}
+	

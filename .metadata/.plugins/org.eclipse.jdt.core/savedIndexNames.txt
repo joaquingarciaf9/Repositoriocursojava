@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Joaquin\OneDrive\Documentos\Curso-Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+716123178.index
+3413725848.index
+978421859.index
