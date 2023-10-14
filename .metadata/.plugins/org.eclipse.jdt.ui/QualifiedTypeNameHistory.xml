@@ -7,4 +7,13 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.compraProductos.moels.DescuentoPorcentaje"/>
+    <fullyQualifiedTypeName name="com.compraProductos.moels.DescuentoFijo"/>
+    <fullyQualifiedTypeName name="com.compraProductos.moels.Producto"/>
+    <fullyQualifiedTypeName name="com.compraProductos.moels.ItemCarrito"/>
+    <fullyQualifiedTypeName name="com.compraProductos.moels.Carrito"/>
 </qualifiedTypeNameHistroy>
